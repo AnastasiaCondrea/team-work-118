@@ -1,0 +1,19 @@
+
+.hero {
+    padding: 120px;
+    background-color: #fff;
+
+}
+
+
+
+.hero-title {
+    font-size: 54px;
+    color: red;
+}
+
+.hero-text {
+    font-size: 18px;
+    color: #000;
+    width: 400px;
+}
